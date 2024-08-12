@@ -90,7 +90,6 @@ export default function App() {
   );
 }
 
-
 // Estilização
 const styles = StyleSheet.create({
   container: {
