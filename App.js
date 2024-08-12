@@ -33,6 +33,7 @@ export default function App() {
     }
   }
 
+
   function handleInput(buttonPressed) {
     console.log(buttonPressed); // Mostra no Console a tecla pressionada
     if (buttonPressed === "+" | buttonPressed === "-" | buttonPressed === "x" | buttonPressed === "/") {
